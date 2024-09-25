@@ -8,10 +8,10 @@ sletning af studerende og integration med GitHub for at hente repositories.
 ## Installation
 1. Klon repositoryet:
    ```bash
-  git clone <repository-url>
+  git clone <[<repository-url>](https://github.com/LucasFJ-2023/Flask-API.git)>
   
 2. Naviger til projektmappen
-   cd <flask-api-aflevering>
+   cd "Flask-api aflevering"
 
 3. Installer nødvendige biblioteker:
    - pip install Flask
